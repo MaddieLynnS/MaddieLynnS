@@ -19,7 +19,7 @@ I'm Maddie Smith, and I'm a student at Brigham Young University-Idaho majoring i
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]([![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()) profile
+- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() profile
 - Here is my [work email](maddielynnsworks@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
