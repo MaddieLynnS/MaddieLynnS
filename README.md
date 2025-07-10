@@ -17,6 +17,13 @@ I'm Maddie Smith, and I'm a student at Brigham Young University-Idaho majoring i
 - Proficient in: C#, JavaScript, Python, and Java; MySQL and PostgreSQL; Microsoft Azure DevOps, Teams, Visual Studio, and VS Code
 - Skills: Quality Assurance, Software development, Data organization, Automation Utilizing AI, Unit testing with NUnit, and Effective communication
 
+## Current and Past Projects
+
+- Working as a TA to help other students improve their coding abilities, as well as improve my quality assurance and debugging skills
+- Developing a large database that will become part of an app targeted to mainstreaming trucking and shipping dispatchment
+- Jan-Apr '25: Assisted with backend logic and quality assurance of gamified learning courses being developed by my dad
+- Sept-Dec '24: Created one of the webpages for my school's Computing Society website
+
 ## Let's Connect!
 
 - Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() profile
